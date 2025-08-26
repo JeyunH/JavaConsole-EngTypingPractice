@@ -50,7 +50,7 @@ Java 프로그래밍 학습과 **MVC 패턴 기반의 계층형 아키텍처를 
 
 <p align="center">
   <!-- ERD 이미지를 업로드하고 그 링크를 여기에 넣으세요. -->
-  <img src="./etc/ERD2.PNG" width="700">
+  <img src="./etc/ERD3.PNG" width="700">
   <br>
   <em>ERD</em>
 </p>
